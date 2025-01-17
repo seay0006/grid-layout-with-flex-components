@@ -4,9 +4,12 @@ body {
   }
   
   .emoji {
+    display: flex;
     border: 1px solid #222;
     border-radius: 8px;
     padding: 1rem;
+    flex-direction: column;
+    
   }
   
   .emoji h2 {
@@ -20,10 +23,15 @@ body {
     color: white;
     padding: 1rem;
     border-radius: 8px;
+    order: 2;
+    align-items: flex-start;
   }
   
   .icon {
+    display: flex;
     font-size: 4rem;
+    order: -1;
+    
   }
 
   .emojis{
