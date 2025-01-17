@@ -9,7 +9,7 @@ body {
     border-radius: 8px;
     padding: 1rem;
     flex-direction: column;
-    
+   
   }
   
   .emoji h2 {
@@ -33,7 +33,7 @@ body {
     display: flex;
     font-size: 4rem;
     order: -1;
-    
+    justify-content: center;
   }
 
   .emojis{
