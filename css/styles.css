@@ -25,6 +25,8 @@ body {
     border-radius: 8px;
     order: 2;
     align-items: flex-start;
+    justify-content: center;
+    
   }
   
   .icon {
