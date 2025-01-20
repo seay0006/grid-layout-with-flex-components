@@ -46,5 +46,6 @@ body {
     grid-template-columns: 50% 50%;
     padding: 10px;
     gap: 10px;
+    /* end of page */
   }
   
